@@ -1,0 +1,115 @@
+var myJsonData =
+
+[{
+	"id": "1",
+	"longitude": "-90.4888888",
+	"latitude": "14.60444444", 
+	"description": "",
+	//"altitude": "100.0",
+	"name": "A"
+}, {
+	"id": "2",
+	"longitude": "-90.490171", 
+	"latitude": "14.604777",
+	"description": "",
+	//"altitude": "100.0",
+	"name": "B"
+}, {
+	"id": "3",
+	"longitude": "-90.490187",
+	"latitude": "14.605037",
+	"description": "",
+	//"altitude": "100.0",
+	"name": "C"
+}, {
+	"id": "4",
+	"longitude": "-90.490016",
+	"latitude": "14.605125",
+	"description": "",
+	//"altitude": "100.0",
+	"name": "C-1"
+}, {
+	"id": "5",
+	"longitude": "-90.490147",
+	"latitude": "14.60513",
+	"description": "",
+	//"altitude": "100.0",
+	"name": "D"
+}, {
+	"id": "6",
+	"longitude": "-90.489737",
+	"latitude": "14.604401",
+	"description": "",
+	//"altitude": "100.0",
+	"name": "E"
+}, {
+	"id": "7",
+	"longitude": "-90.4893333333",
+	"latitude": "14.6048472222",
+	"description": "",
+	//"altitude": "100.0",
+	"name": "F"
+}, {
+	"id": "8",
+	"longitude": "-90.489099",
+	"latitude": "14.604834",
+	"description": "",
+	//"altitude": "100.0",
+	"name": "G"
+}, {
+	"id": "9",
+	"longitude": "-90.488888",
+	"latitude": "14.605-",
+	"description": "",
+	//"altitude": "100.0",
+	"name": "H"
+}, {
+	"id": "10",
+	"longitude": "-90.48873333",
+	"latitude": "14.60534778",
+	"description": "",
+	//"altitude": "100.0",
+	"name": "I"
+}, {
+	"id": "11",
+	"longitude": "-90.48845278",
+	"latitude": "14.60540278",
+	"description": "",
+	//"altitude": "100.0",
+	"name": "J"
+}, {
+	"id": "12",
+	"longitude": "-90.488044",
+	"latitude": "14.605327",
+	"description": "",
+	//"altitude": "100.0",
+	"name": "J-1"
+}, {
+	"id": "13",
+	"longitude": "-90.48845",
+	"latitude": "14.6050277778",
+	"description": "",
+	//"altitude": "100.0",
+	"name": "K"
+}, {
+	"id": "14",
+	"longitude": "-90.4859222222",
+	"latitude": "14.6041027778",
+	"description": "",
+	//"altitude": "100.0",
+	"name": "II-1"
+}, {
+	"id": "15",
+	"longitude": "-90.4858972222",
+	"latitude": "14.6042777778",
+	"description": "",
+	//"altitude": "100.0",
+	"name": "II-2"
+}, {
+	"id": "16",
+	"longitude": "-90.489563",
+	"latitude": "14.605076",
+	"description": "",
+	//"altitude": "100.0",
+	"name": "Z"
+}];
